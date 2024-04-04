@@ -1,0 +1,7 @@
+phynetpy @ git+https://github.com/Moerz/PhyNetPy@0d0b728f4338a07b52d50510c634c10dcc860547
+multiset==3.0.2
+networkx==2.8.4
+numpy==1.23.5
+pandas==1.5.3
+PuLP==2.8.0
+treeswift==1.1.39
